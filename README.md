@@ -27,9 +27,9 @@
     - Ensure the files in `distrib/` are sufficient for participants to solve the challenge
 5. **Add a writeup and solution files.**
     - This will be used for the official writeup release after the competition, so make sure it is complete and easy to understand!
-    - Use the [`sol/`](sol/) directory to include your solution files.
-    - Update [`sol/README.md`](sol/README.md) with the writeup and instructions to for the solution files (if applicable)
-6. Update `README.md`.
+    - Use the [`sol/`](sol/) directory to include solution files (if applicable).
+    - Update [`sol/README.md`](sol/README.md) with the writeup and instructions for the solution files
+6. **Update `README.md`**.
     - Update the title ("CYBERBLITZ 2026 Challenge Template") to match your challenge name
     - Remove the "Instructions for use" section
     - Update the description, which will be used in the challenge listing
