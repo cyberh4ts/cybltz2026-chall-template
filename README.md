@@ -14,6 +14,7 @@
     - Update the repository name to match your challenge name
 2. Push your challenge files.
     - **Please use a standardised flag of `CYBLTZ2026{example_flag}` to prevent any leaks!** If you have a suggested flag, please let the EXCOs know privately so we can include it for the actual challenge release
+        - Is your flag hardcoded in the challenge files (e.g. steganography, crypto)? Provide the source files in `src/` and instructions on how to replace the flag in `README.md`
     - [`distrib/`](distrib/) should contain the files you want to distribute to the participants (if applicable)
     - [`src/`](src/) should contain files required to host your challenge or to create the distributable files (if applicable)
         - e.g. Flask app, mp3 files, plaintext files, etc.
